@@ -1,0 +1,43 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #21283a;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    border-collapse:collapse ;
+}
+
+h1{
+    text-align: center;
+    font-size: 38px;
+    color: rgb(184, 184, 102);
+}
+
+td{
+    border: 1px solid black; 
+    color: white;
+}
+
+.bluegrey{
+    background: #313c50;;
+}
+
+
+#blue{
+    color: rgb(0, 81, 255);
+    font-weight: lighter;
+}
+
+.red{
+    color: rgb(236, 119, 119);
+    border: 1px solid black;
+}
+
+#yellow{
+    background: yellow;
+    color: black;
+    
+}
